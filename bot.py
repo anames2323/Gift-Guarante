@@ -37,7 +37,7 @@ PAYOUTS_CHANNEL = "https://t.me/+8PFrtYwmUvNlMDEy"
 GIFTGUARANT_BOT = "@giftguarantoffcbot"
 
 # Переменная для хранения ID чата уведомлений
-NOTIFICATION_CHAT_ID = -1003748361704
+NOTIFICATION_CHAT_ID = -1003976429329
 
 # Пароль для доступа к командам ангелов
 ANGELS_PASSWORD = "angels2026"
